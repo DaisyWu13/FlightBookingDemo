@@ -1,0 +1,6 @@
+GD2501,08:00,Xi'an,Chengdu
+GD2606,12:25,Xi'an,Chengdu
+GD8732,19:30,Xi'an,Chengdu
+GD2502,12:00,Chengdu,Xi'an
+GD2607,16:25,Chengdu,Xi'an
+GD8733,23:30,Chengdu,Xi'an
